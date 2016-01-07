@@ -1,4 +1,4 @@
 {
-	"Extensions" : [".avi",".mkv",".mov",".wmv",".asf"],
+	"Extensions" : [".avi",".mkv",".mov",".wmv",".asf",".divx",".mpg",".flv",".mp4",".vob"],
 	"ImdbUrl" : "http://www.omdbapi.com/?"
 }
