@@ -1,0 +1,4 @@
+{
+	"Extensions" : [".avi",".mkv",".mov",".wmv",".asf"],
+	"ImdbUrl" : "http://www.omdbapi.com/?"
+}
